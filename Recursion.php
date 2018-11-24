@@ -57,6 +57,8 @@ are separated from each other by a "*".
 }*/
 
 
+
+
 /*Count recursively the total number of "abc" and "aba" substrings that appear in the given string.
     public int countAbc(String str) {
 
@@ -88,6 +90,6 @@ public int bunnyEars(int bunnies) {
 and so on. Compute recursively (no loops or multiplication) the total number of blocks in such a triangle with the given
 number of rows.
     public int triangle(int rows) {
-
+---
 }*/
 
